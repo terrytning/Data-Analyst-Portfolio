@@ -18,7 +18,8 @@ Thank you for your time, I look forward to hearing from you soon.
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [[`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb))
+https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
