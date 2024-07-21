@@ -17,11 +17,11 @@ Thank you for your time, I look forward to hearing from you soon.
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Store Purchase Analysis
 **Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb)
 
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To determine what factors contribute the most to a success.
 
 **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
@@ -31,7 +31,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
-### Tech Store Sales Analysis
+### Customer Churn prediction
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
@@ -47,7 +47,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-### Nashville Housing Data Cleaning
+### Sustomer segmentation - RFM analysis
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
@@ -58,8 +58,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** SQL Server
 
 
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+### Amazon review sentiment analysis
+**Code:** [`Amazon Review Sentimentl`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -72,7 +72,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/terry/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
