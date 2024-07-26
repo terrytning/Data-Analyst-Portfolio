@@ -38,7 +38,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb)
 
 
-**Description:** The dataset contains detailed customer information of a telecom company, like customer age, gender, number of indepedents,tenure, customer status, monthly charge,internet type, etc. The project includes the following : data loading, data cleaning and preprocessing, define features and target columns, encode categorical data, normalize numeric data,split train and test data, loop through multiple model types, select the model with best accuracy, fit it and test the model, visualize the model with confusion matrix. 
+**Description:** The dataset contains detailed customer information of a telecom company, like customer age, gender, number of indepedents,tenure, customer status, monthly charge,internet type, etc. The project includes the following : data loading, data cleaning and preprocessing, define features and target columns, encode categorical data, normalize numeric data,split train and test data, loop through multiple model types, select the model with best accuracy, fit and test the model, visualize the model with confusion matrix. 
 
 **Skills:** data cleaning, machine learning model fitting process, data visualization.
 
