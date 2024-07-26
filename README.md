@@ -21,11 +21,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb)
 
 
-**Goal:** To determine what factors contribute the most to a success.
+**Goal:** TO GET A DEEP UNDERSTANDING OF STORE CUSTOMER PURCHASE BEHAVIOURS.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** The dataset contains store sales reocords indicating customer purchase transactions. The dataset includes customer type, branch,city, purchase amount, unit, purchase date,  and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), data visualization.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** data cleaning, data analysis, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
@@ -33,7 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Customer Churn prediction
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+**Goal:** To build a model to prediction the 
 
 **Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb)
 
