@@ -21,7 +21,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb)
 
 
-**Goal:** TO GET A DEEP UNDERSTANDING OF STORE CUSTOMER PURCHASE BEHAVIOURS.
+**Goal:** To get a deep understanding of store customer purchase behaviours.
 
 **Description:** The dataset contains store sales reocords indicating customer purchase transactions. The dataset includes customer type, branch,city, purchase amount, unit, purchase date,  and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), data visualization.
 
@@ -33,18 +33,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Customer Churn prediction
 
-**Goal:** To build a model to prediction the 
+**Goal:** To build a model to prediction the possibility of customer churn for a telecom company
 
 **Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb)
 
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Description:** The dataset contains detailed customer information of a telecom company, like customer age, gender, number of indepedents,tenure, customer status, monthly charge,internet type, etc. The project includes the following : data loading, data cleaning and preprocessing, define features and target columns, encode categorical data, normalize numeric data,split train and test data, loop through multiple model types, select the model with best accuracy, fit it and test the model, visualize the model with confusion matrix. 
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Skills:** data cleaning, machine learning model fitting process, data visualization.
 
-**Technology:** Python, Pandas, Matplotlib.
+**Technology:** Python, Pandas, Numpy,Matplotlib,Seaborn, Sklearn.
 
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+**Results:** Built a model that can be used to predict whether the customer will churn or not based on provided customer information.
 
 
 
