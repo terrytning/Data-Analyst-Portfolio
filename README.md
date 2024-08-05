@@ -53,7 +53,7 @@ Thanks for your time.
 
 **Goal:** To analyze customers reviews to Amazon products
 
-**Code:** [`Amazon Review Sentimentl`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb)
+**Code:** [`Amazon Review Sentiment`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb)
 
 **Description:** The dataset contains Amazon product reviews . This project includes the following steps: data loading, data cleaning, removing numbers,punctuations,stopwords, finding frequency of words,plotting words frequecy, plotting word cloud,etc.
 
