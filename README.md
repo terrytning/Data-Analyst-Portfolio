@@ -13,10 +13,10 @@ Thanks for your time.
 ## Portfolio Projects
 
 ### Project 1, Store Purchase Analysis
-**Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb)
-
 
 **Goal:** To get a deep understanding of store customer purchase behaviours.
+
+**Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb)
 
 **Description:** The dataset contains store sales reocords indicating customer purchase transactions. The dataset includes customer type, branch,city, purchase amount, unit, purchase date,  and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), data visualization.
 
@@ -25,12 +25,11 @@ Thanks for your time.
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
 
-### Project 2,Customer Churn prediction
+### Project 2, Customer Churn prediction
 
 **Goal:** To build a model to prediction the possibility of customer churn for a telecom company
 
 **Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb)
-
 
 **Description:** The dataset contains detailed customer information of a telecom company, like customer age, gender, number of indepedents,tenure, customer status, monthly charge,internet type, etc. The project includes the following : data loading, data cleaning and preprocessing, define features and target columns, encode categorical data, normalize numeric data,split train and test data, loop through multiple model types, select the model with best accuracy, fit and test the model, visualize the model with confusion matrix. 
 
@@ -51,7 +50,9 @@ Thanks for your time.
 **Technology:** SQL language
 
 ### Project 4, Amazon review sentiment analysis
+
 **Goal:** To analyze customers reviews to Amazon products
+
 **Code:** [`Amazon Review Sentimentl`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb)
 
 **Description:** The dataset contains Amazon product reviews . This project includes the following steps: data loading, data cleaning 
@@ -59,7 +60,7 @@ Thanks for your time.
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**Technology:** SQL Server
+**Technology:** Python
 
 
 ### Project 5, Tableau Public Dashboard
