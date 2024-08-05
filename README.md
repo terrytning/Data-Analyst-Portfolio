@@ -24,7 +24,6 @@ Thanks for your time.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 ### Project 2,Customer Churn prediction
 
@@ -39,27 +38,24 @@ Thanks for your time.
 
 **Technology:** Python, Pandas, Numpy,Matplotlib,Seaborn, Sklearn.
 
-**Results:** Built a model that can be used to predict whether the customer will churn or not based on provided customer information.
-
-
 
 ### Project 3, Customer segmentation - RFM analysis
+
+**Goal:** To identify and better understand segments of customers 
 **Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Data%20Analysis.sql)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Description:** The dataset contains customer purchase transactions, including customer name, purchase date, and the amount purchased,etc. This project includes the following steps: data loading, data cleaning and preprocessing,data exploratory analysis,calculating customer purchase recency,frenqucy and monetory amount, grouping customers by their recency,frequency and monetory amount, combining recency,frenquency and monetory amount to obtain RFM value,intepretging customer segements based on their RFM.
 
+**Skills:** data loading,data cleaning,data manipulation,data exploratory analysis, RFM segementation
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
+**Technology:** SQL language
 
 ### Project 4, Amazon review sentiment analysis
+**Goal:** To analyze customers reviews to Amazon products
 **Code:** [`Amazon Review Sentimentl`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb)
 
+**Description:** The dataset contains Amazon product reviews . This project includes the following steps: data loading, data cleaning 
 
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
