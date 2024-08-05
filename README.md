@@ -55,17 +55,14 @@ Thanks for your time.
 
 **Code:** [`Amazon Review Sentimentl`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb)
 
-**Description:** The dataset contains Amazon product reviews . This project includes the following steps: data loading, data cleaning 
+**Description:** The dataset contains Amazon product reviews . This project includes the following steps: data loading, data cleaning, removing numbers,punctuations,stopwords, finding frequency of words,plotting words frequecy, plotting word cloud,etc.
 
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** Python
-
+**Skills:** data cleaning, data manipulation, data visualization
+**Technology:** Python Pandas,numpy, matplotlib,textblob,wordcloud,nltk.
 
 ### Project 5, Tableau Public Dashboard
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Goal:** To create a dashboard showing key perfromance indicators of sales in a company.
 
 **Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/terry/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
@@ -73,4 +70,4 @@ Thanks for your time.
 
 **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** Tidyverse 
+**Technology:** Tableau Public 
