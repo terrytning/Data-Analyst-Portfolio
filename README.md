@@ -1,64 +1,69 @@
-# Data-Analyst-Portfolio
+# Data-Analyst-Portfolio 
 
-Welcome to my Data Analyst Portfolio!
+Welcome to my Data Analyst Portfolio! 
 
-I am a data analyst experienced with various tools and technologies to collect, manipulate and analyze data to obtain business intelligency. I am proficient in Python, SQL, Excel, Power BI, and Tableau,etc.
+I am a passionate and driven aspiring data analyst with a keen interest in uncovering insights from data and turning them into actionable strategies. Currently, I am on an exciting journey of self-learning, delving into the world of data analysis to master the skills and techniques that will enable me to make a significant impact in the field. 
 
-In this portfolio, I have included projects that showcase my data analytic skills. You will find links of codes and dashboard. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, which makes it easier for decision makers to understand the insights of business.
+Over the past few months, I have dedicated myself to learning various data analysis tools and programming languages including Python, SQL, Excel, Tableau and Power BI. By exploring online courses, tutorials, and projects, I am continually expanding my understanding of data visualization, statistical analysis, and data-driven decision-making. 
 
-I am confident that my data analytic skills and experience make me an ideal candidate for a data analyst role.  I welcome any opportunity to further discuss my qualifications.
+My self-learning journey has taught me the importance of persistence, problem-solving, decisiion making and critical thinking. I am not only focused on acquiring technical skills but also on developing a strong analytical mindset that will allow me to approach challenges with creativity and precision. 
 
-Thanks for your time.
+I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you. 
 
-## Portfolio Projects
+Thank you for your time, I look forward to hearing from you soon. 
 
-### Project 1, Store Purchase Analysis
+## Portfolio Projects 
 
-**Goal:** To get a deep understanding of store customer purchase behaviours.
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases. 
 
-**Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb)
+### Store Purchase Analysis 
 
-**Description:** The dataset contains store sales reocords indicating customer purchase transactions. The dataset includes customer type, branch,city, purchase amount, unit, purchase date,  and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), data visualization.
+**Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb) 
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Goal:** Gain insight on a stores customer purchase behaviour to determine what factors contribute the most to the company's success 
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Description:** The project focused on analyzing a dataset of purchases from a store between 3 different branches. The dataset included product line, unit price, total cost, payment type and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA) and data vizualization. 
 
+**Skills:** Data cleaning, data analysis, data visualization 
 
-### Project 2, Customer Churn prediction
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy. 
 
-**Goal:** To build a model to prediction the possibility of customer churn for a telecom company
+### Customer Churn Prediction 
 
-**Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb)
+**Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb) 
 
-**Description:** The dataset contains detailed customer information of a telecom company, like customer age, gender, number of indepedents,tenure, customer status, monthly charge,internet type, etc. The project includes the following : data loading, data cleaning and preprocessing, define features and target columns, encode categorical data, normalize numeric data,split train and test data, loop through multiple model types, select the model with best accuracy, fit and test the model, visualize the model with confusion matrix. 
+**Goal:** Build a prediction model to predict the possibility of a customer churning for a telecom company 
 
-**Skills:** data cleaning, machine learning model fitting process, data visualization.
+**Description:** The dataset contains detailed customer information from a telecom company such as age, gender, tenure, monthly chargers, internet type and more. The project includes the following steps: data loading, data cleaning and preprocessing, defining features and target columns encoding categorical data, normalizing numeric data, splitting traning and testing data, looping through various model types (to determine which model has the highest accuracy), fitting and testing the model and finally vizualizing the model using a confusion matrix. 
 
-**Technology:** Python, Pandas, Numpy,Matplotlib,Seaborn, Sklearn.
+ **Skills:** Data cleaning, data analysis, machine learning modelling process, data visualization 
 
+**Technology:** Python, Pandas, Matplotlib, Numpy, Seaborn, Sklearn 
 
-### Project 3, Customer segmentation - RFM analysis
+### Customer Segmentation - RFM Analysis 
 
-**Goal:** To identify and better understand segments of customers 
-**Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Data%20Analysis.sql)
+**Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Data%20Analysis.sql) 
 
-**Description:** The dataset contains customer purchase transactions, including customer name, purchase date, and the amount purchased,etc. This project includes the following steps: data loading, data cleaning and preprocessing,data exploratory analysis,calculating customer purchase recency,frenqucy and monetory amount, grouping customers by their recency,frequency and monetory amount, combining recency,frenquency and monetory amount to obtain RFM value,intepretging customer segements based on their RFM.
+**Goal:** Identify and better understand segments of customers 
 
-**Skills:** data loading,data cleaning,data manipulation,data exploratory analysis, RFM segementation
+**Description:** The dataset contains customer purchase transactions, including customer name, purchase date, amount purchased, etc. This project requires data loading, data cleaning and preprocessing, exploratory data analysis (EDA), calculating recency, frequency and monetary value (RFM) of customer orders, grouping customers by their RFM and using it to obtain an RFM value and lastly using the RFM value to interpret cutomer segments. 
 
-**Technology:** SQL language
+**Skills:** Data cleaning, data manipulation, exploratory data analysis (EDA), RFM segmentation 
 
-### Project 4, Amazon review sentiment analysis
+**Technology:** SQL Server 
 
-**Goal:** To analyze customers reviews to Amazon products
+ ### Amazon Review Sentiment Analysis 
 
-**Code:** [`Amazon Review Sentiment`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb)
+**Code:** [`Amazon Review Sentimentl`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb) 
 
-**Description:** The dataset contains Amazon product reviews . This project includes the following steps: data loading, data cleaning, removing numbers,punctuations,stopwords, finding frequency of words,plotting words frequecy, plotting word cloud,etc.
+**Goal:** Analyze customer reeviews to determine the overall sentiment towards an Amazon product 
 
-**Skills:** data cleaning, data manipulation, data visualization
-**Technology:** Python Pandas,numpy, matplotlib,textblob,wordcloud,nltk.
+**Description:** The dataset contains records of reviews from a company operating on Amazon in the home textiles and everyday clothing sectors. This project includes the following steps: data loading, data cleaning, text preprocessing (lowercase conversion, removal of punctuation, numerical exressions and stopwords, tokenization and lemmatization), determining the frequency of a word, plotting word frequency using a bar chart and word cloud and finally calculating the polarity score. 
+
+**Skills:** Data cleaning, data manipulation, data vizualization 
+
+ **Technology:** Python, Pandas, Numpy, Matplotlib, Textblob, Wordcloud, NLTK 
+
 
 ### Project 5, Tableau Public Dashboard
 
