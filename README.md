@@ -16,7 +16,7 @@ Thank you for your time, I look forward to hearing from you soon.
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases. 
 
-###Project 1, Store Purchase Analysis 
+### Project 1, Store Purchase Analysis 
 
 **Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb) 
 
@@ -28,7 +28,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy. 
 
-###Project 2, Customer Churn Prediction 
+### Project 2, Customer Churn Prediction 
 
 **Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb) 
 
@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Matplotlib, Numpy, Seaborn, Sklearn 
 
-###Project 3, Customer Segmentation - RFM Analysis 
+### Project 3, Customer Segmentation - RFM Analysis 
 
 **Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/320b30927f938989540768dd5c9f34941c9ddc82/RFM%20Analysis%20.sql)
 
@@ -52,7 +52,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL Server 
 
- ###Project 4, Amazon Review Sentiment Analysis 
+ ### Project 4, Amazon Review Sentiment Analysis 
 
 **Code:** [`Amazon Review Sentimentl`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb) 
 
