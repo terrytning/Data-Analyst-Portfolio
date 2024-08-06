@@ -42,7 +42,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Customer Segmentation - RFM Analysis 
 
-**Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Data%20Analysis.sql) 
+**Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/320b30927f938989540768dd5c9f34941c9ddc82/RFM%20Analysis%20.sql)
 
 **Goal:** Identify and better understand segments of customers 
 
