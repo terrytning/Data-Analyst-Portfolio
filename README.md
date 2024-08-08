@@ -54,7 +54,7 @@ In this section I will list data analytics projects briefly describing the techn
 
  ### Project 4, Amazon Review Sentiment Analysis 
 
-**Code:** [`Amazon Review Sentimentl`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb) 
+**Code:** [`Amazon Review Sentiment`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb) 
 
 **Goal:** Analyze customer reeviews to determine the overall sentiment towards an Amazon product 
 
