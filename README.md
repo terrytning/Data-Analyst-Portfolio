@@ -69,7 +69,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To create a dashboard showing key perfromance indicators of sales in a company.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/terry/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Code:** [`Tableau Public Dashboard`][(https://github.com/terry/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb](https://public.tableau.com/app/profile/terry.ning/viz/SuperstoreDashboard_17201935261840/SuperstoreDashboard?publish=yes))
 
 **Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
