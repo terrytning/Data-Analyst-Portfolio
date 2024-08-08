@@ -16,7 +16,7 @@ Thank you for your time, I look forward to hearing from you soon.
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases. 
 
-### Project 1, Store Purchase Analysis 
+### Project 1. Store Purchase Analysis 
 
 **Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb) 
 
@@ -28,7 +28,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy. 
 
-### Project 2, Customer Churn Prediction 
+### Project 2. Customer Churn Prediction 
 
 **Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb) 
 
@@ -40,7 +40,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Python, Pandas, Matplotlib, Numpy, Seaborn, Sklearn 
 
-### Project 3, Customer Segmentation - RFM Analysis 
+### Project 3. Customer Segmentation - RFM Analysis 
 
 **Code:** [`Customer Segmentation RFM`](https://github.com/terrytning/Portfolio-Projects/blob/320b30927f938989540768dd5c9f34941c9ddc82/RFM%20Analysis%20.sql)
 
@@ -52,7 +52,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL Server 
 
- ### Project 4, Amazon Review Sentiment Analysis 
+ ### Project 4. Amazon Review Sentiment Analysis 
 
 **Code:** [`Amazon Review Sentiment`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/sentiment%20analysis%20on%20Amazon%20reviews%20(1).ipynb) 
 
@@ -69,10 +69,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To create a dashboard showing key perfromance indicators of sales in a company.
 
-**Code:** [`Tableau Public Dashboard`](https://public.tableau.com/app/profile/terry.ning/viz/SuperstoreDashboard_17201935261840/SuperstoreDashboard?publish=yes)
+**Code:** [`Tableau Public Dashboard`]
+(https://public.tableau.com/app/profile/terry.ning/viz/SuperstoreDashboard_17201935261840/SuperstoreDashboard?publish=yes)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+**Description:** The dataset contains a list of sales records from a fictitious soft drink company with relevant information such as product, company, category, units sold and revenue to name a few. This interactive dashboard visualizes the sales performance of various products across different regions and customers using a map chart and bar charts. The dashboard can be organized by total sales, total revenue or total orders. 
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Skills:** Data cleaning, data analysis, data visualization.
 
 **Technology:** Tableau Public 
