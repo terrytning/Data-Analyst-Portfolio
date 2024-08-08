@@ -18,7 +18,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Project 1. Store Purchase Analysis 
 
-**Code:** [`Store Purchase analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb) 
+**Code:** [`Store Purchase Analysis`](https://github.com/terrytning/Portfolio-Projects/blob/main/Store%20Purchase%20Analysis.ipynb) 
 
 **Goal:** Gain insight on a stores customer purchase behaviour to determine what factors contribute the most to the company's success 
 
@@ -30,7 +30,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Project 2. Customer Churn Prediction 
 
-**Code:** [`Customer churn prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb) 
+**Code:** [`Customer Churn Prediction`](https://github.com/terrytning/Portfolio-Projects/blob/946ae39dec0d72644fdecf518fdc71db51bef261/Customer%20Churn%20Prediction%20Model.ipynb) 
 
 **Goal:** Build a prediction model to predict the possibility of a customer churning for a telecom company 
 
