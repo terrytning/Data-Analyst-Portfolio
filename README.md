@@ -69,8 +69,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To create a dashboard showing key perfromance indicators of sales in a company.
 
-**Code:** [`Tableau Public Dashboard`]
-(https://public.tableau.com/app/profile/terry.ning/viz/SuperstoreDashboard_17201935261840/SuperstoreDashboard?publish=yes)
+**Code:** [`Tableau Public Dashboard`](https://public.tableau.com/app/profile/terry.ning/viz/SuperstoreDashboard_17201935261840/SuperstoreDashboard?publish=yes)
 
 **Description:** The dataset contains a list of sales records from a fictitious soft drink company with relevant information such as product, company, category, units sold and revenue to name a few. This interactive dashboard visualizes the sales performance of various products across different regions and customers using a map chart and bar charts. The dashboard can be organized by total sales, total revenue or total orders. 
 
