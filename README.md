@@ -4,7 +4,7 @@ Welcome to my Data Analyst Portfolio!
 
 I am a passionate and driven aspiring data analyst with a keen interest in uncovering insights from data and turning them into actionable strategies. Currently, I am on an exciting journey of self-learning, delving into the world of data analysis to master the skills and techniques that will enable me to make a significant impact in the field. 
 
-I have dedicated myself to learning various data analysis tools and programming languages including Python, SQL, Excel, Tableau and Power BI. By exploring online courses, tutorials, and projects, I am continually expanding my understanding of data visualization, statistical analysis, and data-driven decision-making. 
+I have dedicated myself to learning various data analysis tools and programming languages including Python, SQL, Excel, Tableau and Power BI. By exploring online courses, tutorials, and projects, I have a firm understanding of data visualization, statistical analysis, and data-driven decision-making. 
 
 My self-learning journey has taught me the importance of persistence, problem-solving, decisiion making and critical thinking. I am not only focused on acquiring technical skills but also on developing a strong analytical mindset that will allow me to approach challenges with creativity and precision. 
 
