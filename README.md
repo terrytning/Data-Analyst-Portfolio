@@ -6,7 +6,7 @@ I am a passionate and driven aspiring data analyst with a keen interest in uncov
 
 I have dedicated myself to learning various data analysis tools and programming languages including Python, SQL, Excel, Tableau and Power BI. By exploring online courses, tutorials, and projects, I have a firm understanding of data visualization, statistical analysis, and data-driven decision-making. 
 
-My self-learning journey has taught me the importance of persistence, problem-solving, decisiion making and critical thinking. I am not only focused on acquiring technical skills but also on developing a strong analytical mindset that will allow me to approach challenges with creativity and precision. 
+My self-learning journey has taught me the importance of persistence, problem-solving, decision making and critical thinking. I am not only focused on acquiring technical skills but also on developing a strong analytical mindset that will allow me to approach challenges with creativity and precision. 
 
 I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you. 
 
